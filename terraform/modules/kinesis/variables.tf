@@ -1,0 +1,1 @@
+variable "stream_name" {}
